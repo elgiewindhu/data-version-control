@@ -1,0 +1,4 @@
+[core]
+    remote = remote
+['remote "remote"']
+    url = C:/Work/97_DVC_Tutorial/dvc-remote
